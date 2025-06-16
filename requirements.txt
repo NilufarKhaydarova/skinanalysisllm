@@ -1,0 +1,26 @@
+# Core web framework
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Image processing
+Pillow==10.0.1
+
+# Data handling and analysis
+pandas==2.1.1
+numpy==1.24.4
+scikit-learn==1.3.0
+
+# Machine Learning / AI (if using specific models)
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.33.2
+
+# Optional: For advanced image processing
+opencv-python==4.8.1.78
+
+# Optional: For medical/dermatology models (if using HuggingFace models)
+datasets==2.14.5
+
+# Utility packages (likely needed based on your custom modules)
+requests==2.31.0
+tqdm==4.66.1
